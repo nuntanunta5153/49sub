@@ -1,0 +1,15 @@
+current directory: /Users/sangonomi/Desktop/programing/ruby_復習よう/49sub/vender/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/sangonomi/.rbenv/versions/2.7.2/bin/ruby -I /Users/sangonomi/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210418-30815-sarxzf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sangonomi/Desktop/programing/ruby_復習よう/49sub/vender/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/sangonomi/Desktop/programing/ruby_復習よう/49sub/vender/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/sangonomi/Desktop/programing/ruby_復習よう/49sub/vender/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210418-30815-10f1myc/skiptrace/internal
